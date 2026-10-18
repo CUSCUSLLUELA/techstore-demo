@@ -9,3 +9,7 @@
 ## Estado del proyecto
 
 Proyecto en fase de desarrollo.
+
+## Catálogo de productos
+
+El catálogo permitirá consultar los productos disponibles, sus precios y sus categorías.
